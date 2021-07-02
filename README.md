@@ -3,7 +3,7 @@ Fiori Project to get you started with [SAP BTP Private Link Service for Azure](h
 
 This app was built from SAP's Fiori template for SAPUI5 freestyle.
 
-Find my blog post series on the topic [here]().
+Find my blog post series on the topic [here](https://blogs.sap.com/2021/07/02/whatever-happens-in-an-azure-and-btp-private-linky-swear-stays-in-the-linky-swear/).
 
 Additional Resources |
 --- |
